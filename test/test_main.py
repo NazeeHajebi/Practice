@@ -54,3 +54,5 @@ class TestMain(TestCase):
     number_of_min_in_hour = 60
     total_hours = 24
     number_of_min_twenty_four_hours = number_of_min_in_hour * total_hours
+    # I'm trying to learn git/github and etc
+    
