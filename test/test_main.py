@@ -48,6 +48,7 @@ class TestMain(TestCase):
     num2 = 2
     sum = num1 + num2
     print("The sum is:", sum)
+    print("The sum is:", sum)
     print((2 + 2) + (2 ** 2))
     print(2 + 2 / ((2 + 2) + (2 ** 2)))
     number_of_min_in_hour = 60
